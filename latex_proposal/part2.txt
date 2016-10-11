@@ -1,0 +1,35 @@
+abstract
+
+Why asip in embedded systems?
+application-specific instruction-set processors (ASIPs) deliver greater computational efficiencies than general purpose processors
+Application Specific Instruction-set Processors(ASIPs) are designed
+to exploit the special characteristics of an application or a set of applications
+to meet the desired cost, performance and power requirements.
+In the world of embedded-
+processor systems that are geared to
+solve a single application (or a limited
+class
+of applications) very efficiently,
+
+what is scad/ exposed datapath architecture
+how can scad aip be benificial/whats the claim in all
+
+Synchronous-
+control Asynchronous-data or SCAD is a new processor architecture which ex-
+ploits a large amount of instruction-level parallelism. SCAD belongs therefore to
+the family of exposed data path architectures pioneered by explicit data graph
+execution (EDGE) architectures.
+
+Due to its modular structure, SCAD is an ideal processor template for application-specific instruction-set processors (ASIP) (with customized datapath but without the inflexibility and design cost of fixed function hardware accelerators.)
+
+Our aim here is to evaluate whether and how
+SCAD could be used to implement application specific processor
+
+
+intro
+
+explain scad more 
+say it is beneficial to implement asfu in scad and obtainmore gain than compared to risc arch
+
+ 
+
