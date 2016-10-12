@@ -1,9 +1,0 @@
-push 10
-push 20
-add
-pop A
-push 10
-push 30
-sub
-pop B
-end
